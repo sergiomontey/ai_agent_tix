@@ -107,31 +107,7 @@ class Agent:
     satisfaction_rating: float # Performance metric
 ```
 
-## 🛠 Installation
 
-### Standard Installation
-```bash
-git clone https://github.com/yourusername/tix-agent.git
-cd tix-agent
-pip install -r requirements.txt
-```
-
-### Full AI Features
-```bash
-pip install textblob scikit-learn pandas fuzzywuzzy python-levenshtein
-python -m textblob.download_corpora
-```
-
-### Docker Deployment
-```bash
-docker build -t tix-agent .
-docker run -p 8080:8080 -v $(pwd)/data:/app/data tix-agent
-```
-
-### Production Setup
-```bash
-# With Redis for caching and PostgreSQL for persistence
-docker-compose up -d
 ```
 
 ## 📈 Usage Examples
@@ -317,6 +293,20 @@ tix.configure_webhook(
     events=["ticket_created", "ticket_escalated", "routing_decision"]
 )
 ```
+## 📜 License & Commercial Use
+
+This software is proprietary to **MONTEYcodes** and protected by copyright law.
+
+### 👀 **Viewing & Learning**
+- ✅ View source code for educational purposes
+- ✅ Study implementation patterns and techniques
+- ✅ Use as reference for learning AI agent development
+
+### 🚫 **Restrictions** 
+- ❌ No commercial use without license
+- ❌ No redistribution or modification
+- ❌ No use in production environments
+- ❌ No derivative works
 
 
 ## 🔮 Roadmap
