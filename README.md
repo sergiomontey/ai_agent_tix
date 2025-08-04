@@ -318,44 +318,6 @@ tix.configure_webhook(
 )
 ```
 
-## 🤝 Contributing
-
-We welcome contributions to make Tix even more efficient!
-
-### Development Setup
-```bash
-git clone https://github.com/yourusername/tix-agent.git
-cd tix-agent
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-pip install -e .
-pip install -r requirements-dev.txt
-```
-
-### Running Tests
-```bash
-pytest tests/ -v --cov=tix_agent
-```
-
-### Code Quality
-```bash
-black tix_agent/
-flake8 tix_agent/
-mypy tix_agent/
-```
-
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙋‍♂️ Support & Community
-
-- **Documentation**: Comprehensive guides at [docs.tix-agent.io](https://docs.tix-agent.io)
-- **GitHub Issues**: Bug reports and feature requests
-- **Discord Community**: Real-time support and discussions
-- **Stack Overflow**: Tag your questions with `tix-agent`
-- **Enterprise Support**: Contact enterprise@tix-agent.io
 
 ## 🔮 Roadmap
 
