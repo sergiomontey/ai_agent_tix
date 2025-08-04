@@ -349,11 +349,3 @@ This software is proprietary to **MONTEYcodes** and protected by copyright law.
 
 ---
 
-**Ready to revolutionize your customer service?** ⭐ Star this repo and let Tix bring hyper-efficiency to your support operations!
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/tix-agent.svg?style=social&label=Star)](https://github.com/yourusername/tix-agent)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/tix-agent.svg?style=social&label=Fork)](https://github.com/yourusername/tix-agent/fork)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/tix-agent.svg)](https://github.com/yourusername/tix-agent/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
